@@ -1,12 +1,9 @@
 package converter;
-
 import javax.swing.*;
 import java.io.*;
 
 /**
- *
- * @author : Akshat Gupta
- *       
+ * @author : Akshat Gupta      
  */
 
 public class Console implements Runnable {
