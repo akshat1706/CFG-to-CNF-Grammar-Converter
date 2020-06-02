@@ -1,13 +1,10 @@
 package converter;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
 /**
- *
- * @author : Akshat Gupta
- *       
+ * @author : Akshat Gupta      
  */
 
 public class main extends JFrame implements ActionListener {
@@ -15,7 +12,6 @@ public class main extends JFrame implements ActionListener {
     private SpringLayout springLayout = new SpringLayout();
 
     private JButton btn_CFGCNF;
-
 
     public main(){
 
